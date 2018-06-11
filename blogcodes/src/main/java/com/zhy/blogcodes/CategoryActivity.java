@@ -2,7 +2,7 @@ package com.zhy.blogcodes;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -26,7 +26,7 @@ import com.zhy.blogcodes.vdh.LeftDrawerLayoutActivity;
 import com.zhy.blogcodes.vdh.VDHBlogActivity;
 
 
-public class CategoryActivity extends ActionBarActivity
+public class CategoryActivity extends AppCompatActivity
 {
     private ListView mListView;
 

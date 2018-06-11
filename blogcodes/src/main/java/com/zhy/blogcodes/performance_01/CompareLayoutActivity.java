@@ -1,12 +1,12 @@
 package com.zhy.blogcodes.performance_01;
 
 import android.os.Bundle;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 
 import com.zhy.blogcodes.R;
 
 
-public class CompareLayoutActivity extends ActionBarActivity
+public class CompareLayoutActivity extends AppCompatActivity
 {
 
     @Override

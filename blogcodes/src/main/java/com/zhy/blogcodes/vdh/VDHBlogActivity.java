@@ -1,14 +1,14 @@
 package com.zhy.blogcodes.vdh;
 
 import android.os.Bundle;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 
 import com.zhy.blogcodes.R;
 
 
-public class VDHBlogActivity extends ActionBarActivity
+public class VDHBlogActivity extends AppCompatActivity
 {
 
     @Override

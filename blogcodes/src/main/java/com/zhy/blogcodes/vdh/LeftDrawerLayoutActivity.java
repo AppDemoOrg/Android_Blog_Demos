@@ -2,14 +2,14 @@ package com.zhy.blogcodes.vdh;
 
 import android.os.Bundle;
 import android.support.v4.app.FragmentManager;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
 import com.zhy.blogcodes.R;
 import com.zhy.blogcodes.toolbar.LeftMenuFragment;
 
 
-public class LeftDrawerLayoutActivity extends ActionBarActivity
+public class LeftDrawerLayoutActivity extends AppCompatActivity
 {
 
     private LeftMenuFragment mMenuFragment;

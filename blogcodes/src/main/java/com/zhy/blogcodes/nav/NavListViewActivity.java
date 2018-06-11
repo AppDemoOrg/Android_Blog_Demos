@@ -8,7 +8,7 @@ import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v4.widget.TextViewCompat;
 import android.support.v7.app.ActionBar;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.text.TextUtils;
 import android.util.TypedValue;
@@ -29,7 +29,7 @@ import java.util.Arrays;
 import java.util.List;
 
 
-public class NavListViewActivity extends ActionBarActivity
+public class NavListViewActivity extends AppCompatActivity
 {
     private ListView mLvLeftMenu;
     private DrawerLayout mDrawerLayout;

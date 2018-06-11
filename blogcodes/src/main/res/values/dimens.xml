@@ -12,4 +12,6 @@
     <dimen name="avatar_layout_margin">10dp</dimen>
     <dimen name="divider_height">10dp</dimen>
     <dimen name="chat_padding_bottom">5dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
 </resources>
